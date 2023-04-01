@@ -38,7 +38,7 @@ pnpm dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-For more info: [https://github.com/LearnWeb3DAO/Sophomore-Track/blob/main/Decentralized-Autonomous-Organizations.md](https://github.com/LearnWeb3DAO/Sophomore-Track/blob/main/Decentralized-Autonomous-Organizations.md)
+For more info: [LearnWeb3 Sophomore Track](https://github.com/LearnWeb3DAO/Sophomore-Track/blob/main/Decentralized-Autonomous-Organizations.md)
 
 
 ## License
